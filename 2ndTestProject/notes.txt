@@ -1,0 +1,7 @@
+
+Node.js with Express and Mangodb
+
+npm install -g express  //install express framework for node.js
+express --sessions nodetest1  //create notetest1 express project
+modify the package.json to include the dependicies in "dependecies"
+npm install // install all the stuff in the dependencies object 
